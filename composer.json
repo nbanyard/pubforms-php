@@ -1,0 +1,12 @@
+{
+    "name": "nbanyard/pubforms-php",
+    "require": {
+        "setasign/fpdf": "1.8.1",
+        "mustache/mustache": "^2.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "ShbPubForms\\": "src/"
+        }
+    }
+}
